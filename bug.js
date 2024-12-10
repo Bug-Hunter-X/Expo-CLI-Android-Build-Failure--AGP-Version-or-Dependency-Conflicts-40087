@@ -1,0 +1,1 @@
+This bug occurs when using the Expo CLI to build an Android APK. The build process fails with an error related to the Android Gradle Plugin (AGP) version incompatibility or issues with the dependencies specified in your `build.gradle` files.  The error messages are often cryptic and don't pinpoint the exact cause.
